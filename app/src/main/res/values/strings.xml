@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RecyclerViewList</string>
+    <string name="dis_cse">With every business and organization going digital, the IT sector today is a booming field as compared to other sectors and there is a huge demand of Computer Science Engineers and programmers.</string>
+    <string name="dis_ece">The electronics market of India alone is valued to be nearing $400 billion. Electronics and Communications is the driving force behind the growth and development of many industries</string>
+    <string name="dis_eee">Electricity is integral to modern life - power generation, transport, medicine, quantum information, computing, artificial intelligence, cryptography, communications, the list is infinite. What distinguishes electrical from electronic</string>
+    <string name="dis_civ">The demand for skilled Civil Engineers will never slow down worldwide as infrastructure projects, construction of building, and many more structures will keep on increasing and will never be stagnant.</string>
+    <string name="dis_bio">Biomedical engineering is a booming career field as health and technology are coming together to revolutionize the field of medicine.</string>
+    <string name="dis_che">Chemical Engineering is one of the highest growing and high paid career choices of engineering graduates</string>
+    <string name="dis_it">The time taken by different sectors to generate business is now minimised with an advancement in Information Technology. It provides security, storage, and efficient communication.</string>
+</resources>
